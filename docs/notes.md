@@ -26,3 +26,4 @@ Notes and usage details for Awesome-RoadMaps-and-Interviews.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
